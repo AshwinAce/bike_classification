@@ -1,4 +1,3 @@
-### README ###
 This repository consists of four python files train.py, test.py, bike.py and split_into_train_and_test.py
 
 split_into_train_and_test.py modifies a dataset, by moving 20% of images to a new folder.
@@ -11,3 +10,6 @@ bikes.py combines the functionality of train.py and test.py except for displayin
 The corresponding tensorboard graphs are in the Graph folder.
 
 Each file has its usage description at the top.
+
+THe links given in the question PDF file did not have a test.py in them, the links were slightly incorrect.
+So I wrote test.py based on the description in the PDF.
