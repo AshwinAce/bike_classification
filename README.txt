@@ -11,5 +11,5 @@ The corresponding tensorboard graphs are in the Graph folder.
 
 Each file has its usage description at the top.
 
-THe links given in the question PDF file did not have a test.py in them, the links were slightly incorrect.
+The links given in the question PDF file did not have a test.py in them, the links were slightly incorrect.
 So I wrote test.py based on the description in the PDF.
